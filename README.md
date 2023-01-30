@@ -1,2 +1,2 @@
-#Author: Hanif Miyanji
+# Author: Hanif Miyanji
 Pascal's Triangle
